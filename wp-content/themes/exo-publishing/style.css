@@ -1,0 +1,36 @@
+@import "css/site.css";
+* {
+    font-family: Roboto, Arial, Helvetica, serif !important;
+}
+
+header.Header.Header--top {
+    position: static !important;
+}
+
+/* nagivation */
+
+.menu {
+    padding: 0;
+    list-style: none;
+}
+
+.menu ul,
+.menu li {
+    display: inline;
+}
+
+/* mobile navigation */
+
+.Mobile-overlay {
+    left: -100vw;
+    transition-delay: 0s !important;
+    transition-duration: 300ms !important;
+}
+
+.wp-block-image.align-center {
+    text-align: center;
+}
+
+.wp-block-image+* .spacer-block:first-child {
+    display: none;
+}

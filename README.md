@@ -1,5 +1,5 @@
-# Fixing Civilization
+# ExO Publishing
 
-[https://fixingcivilization.org/](https://fixingcivilization.org/)
+[https://exopublishing.com/](http://exopublishing.com/)
 
 > The legacy WP dump is on `releases` page, just visible for contributors
